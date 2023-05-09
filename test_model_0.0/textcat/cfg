@@ -1,0 +1,33 @@
+{
+  "labels":[
+    "SnapMirrorHealthCheck",
+    "MigrateProtectionDomain",
+    "SnapMirrorRelationship",
+    "UnmountFileSystem",
+    "UpdateHostName",
+    "UpdateSystemConfiguration",
+    "RestartService",
+    "StopService",
+    "StartService",
+    "GrantReadAccessToDB",
+    "GrantAccessGrantPrivileges",
+    "GrantAllAccess",
+    "RebootSystem",
+    "DisableNetwokInterface",
+    "EnableNetwokInterface",
+    "ModifyNetworkInterface",
+    "DisplayNetworkInformation ",
+    "DisplaySnapmirrorVserver",
+    "DisplaySnapmirrorDestPath",
+    "ShutdownSystem",
+    "CreateSnapMirrorRelationShip",
+    "SnapMirrorRemoveSourceInformation",
+    "SearchAndReplaceInFile",
+    "NcliMigrateProtectionDomain",
+    "SnapMirrorModify",
+    "SnapMirrorDelete",
+    "UpdateInFile"
+  ],
+  "threshold":0.5,
+  "positive_label":null
+}
